@@ -16,7 +16,7 @@
 ## Tools & Stuff I use
 
 - **Programming Languages (Sorted in-terms of Familiarity):**
-  - JavaScript/Typescript (Web development and simple backends services)
+  - JavaScript/Typescript (Web development and simple backend services)
   - Lua (Mostly for neovim plugin development)
   - Rust (Personal favourite and using it for learning low level programming as well as cli tools)
   - Python (Scripting & Automation)
