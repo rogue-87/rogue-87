@@ -8,7 +8,7 @@
 
 ## Projects I'm currently working on...
 
-- [Dotsy](https://gitlab.com/rogue87/dotsy) - Easy to use dotfiles manager.
+- [Dotbee](https://gitlab.com/rogue87/dotbee) - Easy to use dotfiles manager.
 - [SilphiumOS](https://gitlab.com/rogue87/SilphiumOS) - For learning Operating Systems Development.
 
 <!-- - [Algorithms](https://gitlab.com/rogue87/algorithms) Learning algorithms and data structures in Rust -->
