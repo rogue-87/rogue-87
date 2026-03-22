@@ -27,4 +27,4 @@
   - [Mise-En-Place](https://mise.jdx.dev/) (for managing tools)
   - [Podman](https://podman.io/) (I use this as an alternative to docker since it's built into fedora and doesn't require root)
   - [zk-cli](https://github.com/zk-org/zk) (Personal knowledge management system)
-  - [gemini-cli](https://github.com/google-gemini/gemini-cli) (Terminal AI Agent)
+  - [OpenCode + Ollama](https://opencode.ai/) (Terminal AI Agent)
